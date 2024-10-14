@@ -18,4 +18,5 @@ function Verdade(){
 function Caminho(){
     const Caminho = "Só por Ele que samos Salvos"
     console.log(Caminho)
+    
 }
